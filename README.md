@@ -4,12 +4,14 @@ An AI-powered agricultural decision support system that analyzes satellite image
 This project was developed as a **B.Tech Final Year Project** with the goal of combining Artificial Intelligence and agriculture to create a practical solution that supports smarter farming decisions.
 
 Project Overview
+
 1.Agriculture plays an important role in food security, but selecting the right crop based on land conditions remains a challenge for many farmers.
 2.Traditional crop selection depends mostly on manual observation and experience, which may not always provide accurate results.
 3.AgroVision XAI solves this problem by analyzing satellite images, detecting land characteristics, and generating explainable crop recommendations using AI.
 4.The system not only provides predictions but also explains the reasoning behind recommendations, making AI decisions more transparent and reliable.
 
 Features
+
  🛰️ Satellite image analysis using Deep Learning
  🌍 Land feature detection using YOLOv8
  🌱 Intelligent crop recommendation based on detected land conditions
@@ -23,6 +25,7 @@ Features
  🛠️ Admin dashboard for monitoring users and predictions
 
 How It Works
+
 1. User uploads a satellite image through the web applicatio
 2. YOLOv8 deep learning model analyzes the image.
 3. System detects land features such as:
@@ -57,6 +60,7 @@ Tools
 * Git & GitHub
 
 Project Outcomes
+
 ✔ Successfully detected land features from satellite images
 ✔ Generated suitable crop recommendations using AI
 ✔ Improved transparency using Explainable AI techniques
@@ -77,6 +81,7 @@ Team
 Developed as a B.Tech Final Year Project by a team of 3 members.
 
 Future Enhancements
+
 * Integration with real-time satellite data
 * Weather-based crop recommendation
 * Soil parameter analysis

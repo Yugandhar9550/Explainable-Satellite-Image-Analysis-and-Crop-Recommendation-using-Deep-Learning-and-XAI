@@ -5,14 +5,11 @@ This project was developed as a **B.Tech Final Year Project** with the goal of c
 
 Project Overview
 
-1.Agriculture plays an important role in food security, but selecting the right crop based on land conditions remains a challenge for many farmers.
-2.Traditional crop selection depends mostly on manual observation and experience, which may not always provide accurate results.
-3.AgroVision XAI solves this problem by analyzing satellite images, detecting land characteristics, and generating explainable crop recommendations using AI.
-4.The system not only provides predictions but also explains the reasoning behind recommendations, making AI decisions more transparent and reliable.
+Agriculture plays an important role in food security, but selecting the right crop based on land conditions remains a challenge for many farmers.Traditional crop selection depends mostly on manual observation and experience, which may not always provide accurate results.AgroVision XAI solves this problem by analyzing satellite images, detecting land characteristics, and generating explainable crop recommendations using AI.The system not only provides predictions but also explains the reasoning behind recommendations, making AI decisions more transparent and reliable.
 
 Features
 
- 🛰️ Satellite image analysis using Deep Learning
+ 🛰️ Satellite image analysis using Deep Learning 
  🌍 Land feature detection using YOLOv8
  🌱 Intelligent crop recommendation based on detected land conditions
  🧠 Explainable AI (XAI) based decision explanation

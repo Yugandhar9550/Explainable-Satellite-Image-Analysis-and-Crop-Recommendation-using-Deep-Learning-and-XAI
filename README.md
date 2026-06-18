@@ -1,7 +1,7 @@
 # 🌱 AgroVision XAI - Satellite Image Analysis & Crop Recommendation System
 
-# working demo:
-check out project demonstration video:
+# Working Demo:
+Check out Project Demonstration Here:
 https://drive.google.com/file/d/1mca3dvsABuXNPOhuXySEsmzKHA0F45eq/view?usp=drivesdk
 
 Agriculture has always been close to me, and this project started with a simple thought — how can technology help farmers make better decisions?
